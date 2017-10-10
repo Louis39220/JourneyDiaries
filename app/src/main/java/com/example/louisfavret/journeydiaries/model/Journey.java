@@ -1,5 +1,7 @@
 package com.example.louisfavret.journeydiaries.model;
 
+import java.util.Calendar;
+
 /**
  * Created by louis.favret on 09/10/17.
  */
